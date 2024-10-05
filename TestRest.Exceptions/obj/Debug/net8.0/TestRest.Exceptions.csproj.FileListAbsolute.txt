@@ -1,0 +1,11 @@
+/Users/hudsonmartins/RiderProjects/TestRestSharp/TestRest.Exceptions/bin/Debug/net8.0/TestRest.Exceptions.deps.json
+/Users/hudsonmartins/RiderProjects/TestRestSharp/TestRest.Exceptions/bin/Debug/net8.0/TestRest.Exceptions.dll
+/Users/hudsonmartins/RiderProjects/TestRestSharp/TestRest.Exceptions/bin/Debug/net8.0/TestRest.Exceptions.pdb
+/Users/hudsonmartins/RiderProjects/TestRestSharp/TestRest.Exceptions/obj/Debug/net8.0/TestRest.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hudsonmartins/RiderProjects/TestRestSharp/TestRest.Exceptions/obj/Debug/net8.0/TestRest.Exceptions.AssemblyInfoInputs.cache
+/Users/hudsonmartins/RiderProjects/TestRestSharp/TestRest.Exceptions/obj/Debug/net8.0/TestRest.Exceptions.AssemblyInfo.cs
+/Users/hudsonmartins/RiderProjects/TestRestSharp/TestRest.Exceptions/obj/Debug/net8.0/TestRest.Exceptions.csproj.CoreCompileInputs.cache
+/Users/hudsonmartins/RiderProjects/TestRestSharp/TestRest.Exceptions/obj/Debug/net8.0/TestRest.Exceptions.dll
+/Users/hudsonmartins/RiderProjects/TestRestSharp/TestRest.Exceptions/obj/Debug/net8.0/refint/TestRest.Exceptions.dll
+/Users/hudsonmartins/RiderProjects/TestRestSharp/TestRest.Exceptions/obj/Debug/net8.0/TestRest.Exceptions.pdb
+/Users/hudsonmartins/RiderProjects/TestRestSharp/TestRest.Exceptions/obj/Debug/net8.0/ref/TestRest.Exceptions.dll

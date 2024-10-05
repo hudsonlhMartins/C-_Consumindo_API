@@ -1,0 +1,17 @@
+/Users/hudsonmartins/RiderProjects/TestRestSharp/TestRest.Applications/bin/Debug/net8.0/TestRest.Applications.deps.json
+/Users/hudsonmartins/RiderProjects/TestRestSharp/TestRest.Applications/bin/Debug/net8.0/TestRest.Applications.dll
+/Users/hudsonmartins/RiderProjects/TestRestSharp/TestRest.Applications/bin/Debug/net8.0/TestRest.Applications.pdb
+/Users/hudsonmartins/RiderProjects/TestRestSharp/TestRest.Applications/bin/Debug/net8.0/TestRest.Communications.dll
+/Users/hudsonmartins/RiderProjects/TestRestSharp/TestRest.Applications/bin/Debug/net8.0/TestRest.Exceptions.dll
+/Users/hudsonmartins/RiderProjects/TestRestSharp/TestRest.Applications/bin/Debug/net8.0/TestRest.Communications.pdb
+/Users/hudsonmartins/RiderProjects/TestRestSharp/TestRest.Applications/bin/Debug/net8.0/TestRest.Exceptions.pdb
+/Users/hudsonmartins/RiderProjects/TestRestSharp/TestRest.Applications/obj/Debug/net8.0/TestRest.Applications.csproj.AssemblyReference.cache
+/Users/hudsonmartins/RiderProjects/TestRestSharp/TestRest.Applications/obj/Debug/net8.0/TestRest.Applications.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hudsonmartins/RiderProjects/TestRestSharp/TestRest.Applications/obj/Debug/net8.0/TestRest.Applications.AssemblyInfoInputs.cache
+/Users/hudsonmartins/RiderProjects/TestRestSharp/TestRest.Applications/obj/Debug/net8.0/TestRest.Applications.AssemblyInfo.cs
+/Users/hudsonmartins/RiderProjects/TestRestSharp/TestRest.Applications/obj/Debug/net8.0/TestRest.Applications.csproj.CoreCompileInputs.cache
+/Users/hudsonmartins/RiderProjects/TestRestSharp/TestRest.Applications/obj/Debug/net8.0/TestRest.E2ABEAB8.Up2Date
+/Users/hudsonmartins/RiderProjects/TestRestSharp/TestRest.Applications/obj/Debug/net8.0/TestRest.Applications.dll
+/Users/hudsonmartins/RiderProjects/TestRestSharp/TestRest.Applications/obj/Debug/net8.0/refint/TestRest.Applications.dll
+/Users/hudsonmartins/RiderProjects/TestRestSharp/TestRest.Applications/obj/Debug/net8.0/TestRest.Applications.pdb
+/Users/hudsonmartins/RiderProjects/TestRestSharp/TestRest.Applications/obj/Debug/net8.0/ref/TestRest.Applications.dll

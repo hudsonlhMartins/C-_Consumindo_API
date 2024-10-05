@@ -1,0 +1,12 @@
+/Users/hudsonmartins/RiderProjects/TestRestSharp/TestRest.Communications/bin/Debug/net8.0/TestRest.Communications.deps.json
+/Users/hudsonmartins/RiderProjects/TestRestSharp/TestRest.Communications/bin/Debug/net8.0/TestRest.Communications.dll
+/Users/hudsonmartins/RiderProjects/TestRestSharp/TestRest.Communications/bin/Debug/net8.0/TestRest.Communications.pdb
+/Users/hudsonmartins/RiderProjects/TestRestSharp/TestRest.Communications/obj/Debug/net8.0/TestRest.Communications.csproj.AssemblyReference.cache
+/Users/hudsonmartins/RiderProjects/TestRestSharp/TestRest.Communications/obj/Debug/net8.0/TestRest.Communications.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hudsonmartins/RiderProjects/TestRestSharp/TestRest.Communications/obj/Debug/net8.0/TestRest.Communications.AssemblyInfoInputs.cache
+/Users/hudsonmartins/RiderProjects/TestRestSharp/TestRest.Communications/obj/Debug/net8.0/TestRest.Communications.AssemblyInfo.cs
+/Users/hudsonmartins/RiderProjects/TestRestSharp/TestRest.Communications/obj/Debug/net8.0/TestRest.Communications.csproj.CoreCompileInputs.cache
+/Users/hudsonmartins/RiderProjects/TestRestSharp/TestRest.Communications/obj/Debug/net8.0/TestRest.Communications.dll
+/Users/hudsonmartins/RiderProjects/TestRestSharp/TestRest.Communications/obj/Debug/net8.0/refint/TestRest.Communications.dll
+/Users/hudsonmartins/RiderProjects/TestRestSharp/TestRest.Communications/obj/Debug/net8.0/TestRest.Communications.pdb
+/Users/hudsonmartins/RiderProjects/TestRestSharp/TestRest.Communications/obj/Debug/net8.0/ref/TestRest.Communications.dll

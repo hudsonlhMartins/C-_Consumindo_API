@@ -1,0 +1,259 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/hudsonmartins/RiderProjects/TestRestSharp/TestRestSharp/TestRestSharp.csproj": {}
+  },
+  "projects": {
+    "/Users/hudsonmartins/RiderProjects/TestRestSharp/TestRest.Applications/TestRest.Applications.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/hudsonmartins/RiderProjects/TestRestSharp/TestRest.Applications/TestRest.Applications.csproj",
+        "projectName": "TestRest.Applications",
+        "projectPath": "/Users/hudsonmartins/RiderProjects/TestRestSharp/TestRest.Applications/TestRest.Applications.csproj",
+        "packagesPath": "/Users/hudsonmartins/.nuget/packages/",
+        "outputPath": "/Users/hudsonmartins/RiderProjects/TestRestSharp/TestRest.Applications/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/hudsonmartins/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/hudsonmartins/RiderProjects/TestRestSharp/TestRest.Communications/TestRest.Communications.csproj": {
+                "projectPath": "/Users/hudsonmartins/RiderProjects/TestRestSharp/TestRest.Communications/TestRest.Communications.csproj"
+              },
+              "/Users/hudsonmartins/RiderProjects/TestRestSharp/TestRest.Exceptions/TestRest.Exceptions.csproj": {
+                "projectPath": "/Users/hudsonmartins/RiderProjects/TestRestSharp/TestRest.Exceptions/TestRest.Exceptions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "RestSharp": {
+              "target": "Package",
+              "version": "[112.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/hudsonmartins/RiderProjects/TestRestSharp/TestRest.Communications/TestRest.Communications.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/hudsonmartins/RiderProjects/TestRestSharp/TestRest.Communications/TestRest.Communications.csproj",
+        "projectName": "TestRest.Communications",
+        "projectPath": "/Users/hudsonmartins/RiderProjects/TestRestSharp/TestRest.Communications/TestRest.Communications.csproj",
+        "packagesPath": "/Users/hudsonmartins/.nuget/packages/",
+        "outputPath": "/Users/hudsonmartins/RiderProjects/TestRestSharp/TestRest.Communications/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/hudsonmartins/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/hudsonmartins/RiderProjects/TestRestSharp/TestRest.Exceptions/TestRest.Exceptions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/hudsonmartins/RiderProjects/TestRestSharp/TestRest.Exceptions/TestRest.Exceptions.csproj",
+        "projectName": "TestRest.Exceptions",
+        "projectPath": "/Users/hudsonmartins/RiderProjects/TestRestSharp/TestRest.Exceptions/TestRest.Exceptions.csproj",
+        "packagesPath": "/Users/hudsonmartins/.nuget/packages/",
+        "outputPath": "/Users/hudsonmartins/RiderProjects/TestRestSharp/TestRest.Exceptions/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/hudsonmartins/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/hudsonmartins/RiderProjects/TestRestSharp/TestRestSharp/TestRestSharp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/hudsonmartins/RiderProjects/TestRestSharp/TestRestSharp/TestRestSharp.csproj",
+        "projectName": "TestRestSharp",
+        "projectPath": "/Users/hudsonmartins/RiderProjects/TestRestSharp/TestRestSharp/TestRestSharp.csproj",
+        "packagesPath": "/Users/hudsonmartins/.nuget/packages/",
+        "outputPath": "/Users/hudsonmartins/RiderProjects/TestRestSharp/TestRestSharp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/hudsonmartins/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/hudsonmartins/RiderProjects/TestRestSharp/TestRest.Applications/TestRest.Applications.csproj": {
+                "projectPath": "/Users/hudsonmartins/RiderProjects/TestRestSharp/TestRest.Applications/TestRest.Applications.csproj"
+              },
+              "/Users/hudsonmartins/RiderProjects/TestRestSharp/TestRest.Communications/TestRest.Communications.csproj": {
+                "projectPath": "/Users/hudsonmartins/RiderProjects/TestRestSharp/TestRest.Communications/TestRest.Communications.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

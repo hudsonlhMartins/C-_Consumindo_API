@@ -1,0 +1,6 @@
+@TestRestSharp_HostAddress = http://localhost:5174
+
+GET {{TestRestSharp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
